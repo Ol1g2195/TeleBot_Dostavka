@@ -1,7 +1,7 @@
 from aiogram import Bot, Dispatcher, types
 import asyncio
 
-TOKEN = "6403214241:AAEn5GhgkZNRZMReAq9cKTpJ8XgEA2QHqcc"  # Замените на действительный токен вашего бота
+TOKEN = ""  # Замените на действительный токен вашего бота
 bot = Bot(token=TOKEN)
 dp = Dispatcher(bot)  # Инициализируйте Dispatcher с объектом Bot
 
